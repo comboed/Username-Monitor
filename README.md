@@ -76,13 +76,6 @@ The tool will:
   - Voided/unvoided states are logged to their respective files
   - Webhook messages are dispatched using formatted templates
 
-## Notes
-
-- TLS connections are reused and refreshed periodically for performance.
-- Requests are randomized per attempt to avoid detection.
-- Proxy and session quality directly affects success rates.
-- Claimed usernames are logged and sessions are cleaned up automatically.
-
 ## Legal
 
 This tool interacts with private Instagram endpoints and may violate their Terms of Service. It is provided for educational purposes only. Use at your own risk.
