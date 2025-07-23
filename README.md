@@ -9,7 +9,6 @@ This is a high-performance username monitor written in Go. It monitors target us
 
 - Username availability detection and auto-claiming  
 - TLS 1.3 socket-based request engine  
-- GZIP response decompression  
 - Proxy support using `fasthttpproxy`  
 - Multi-session spoofing with randomized headers and cookies  
 - Discord webhook integration for notifications  
